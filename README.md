@@ -1,2 +1,5 @@
 # ComputerVision
- Estudos de Visão Computacional
+ Estudos de Visão Computacional 
+ DLIB , OpenCV 
+ HaarCascade , HOG , CNN
+ 
